@@ -5,6 +5,7 @@ const links: { to: string, label: string }[] = [
   { to: '/stepper', label: 'Stepper' },
   { to: '/form', label: 'Form' },
   { to: '/table', label: 'Table' },
+  { to: '/calendar', label: 'Calendar' },
 ]
 </script>
 
