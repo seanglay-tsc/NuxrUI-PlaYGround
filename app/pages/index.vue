@@ -1,8 +1,10 @@
 <script setup lang="ts">
-const links = [
+const links: { to: string, label: string }[] = [
   { to: '/button', label: 'Button' },
   { to: '/checkbox', label: 'Checkbox' },
   { to: '/stepper', label: 'Stepper' },
+  { to: '/form', label: 'Form' },
+  { to: '/table', label: 'Table' },
 ]
 </script>
 
